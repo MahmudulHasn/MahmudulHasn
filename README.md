@@ -1,7 +1,6 @@
  <h1 align="left">Hi 👋, I'm Mahmud.</h1>
 <h3 align="left">A passionate frontend developer.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahmudulhasn&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudulhasn" /> </p>
 
 🔭 I’m currently doing BSc in Computer Science and Engineering at UIU.
 
@@ -28,3 +27,4 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmudulhasn&show_icons=true&locale=en&layout=compact" alt="mahmudulhasn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmudulhasn&show_icons=true&locale=en" alt="mahmudulhasn" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahmudulhasn&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudulhasn" /> </p>
