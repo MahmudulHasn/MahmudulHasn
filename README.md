@@ -1,5 +1,5 @@
  <h1 align="left">Hi 👋, I'm Mahmud.</h1>
-<h3 align="left">A passionate frontend developer.</h3>
+<h2 align="left">A passionate frontend developer.</h2>
 
 
 🔭 I’m currently doing BSc in Computer Science and Engineering at UIU.
