@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Data Structure and Algorithm, Java**
 
 - I am a amateur photographer.
-- check out my photos on [https://www.pexels.com/@mahmudulhasan/](https://www.pexels.com/@mahmudulhasan/)
+- check out my photos on [https://www.pexels.com/@mahmudulhasan/](https://www.pexels.com/@mahmudclicks/)
 
 - 💬 Ask me about **HTML,CSS and Bootstrap**
 
