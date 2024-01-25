@@ -1,15 +1,12 @@
- <h1 align="left">Hi 👋, I'm Mahmud.</h1>
+ <h1 align="left">Hey, I'm Mahmud.</h1>
 <h2 align="left">A passionate frontend developer.</h2>
 
 
 🔭 I’m currently doing BSc in Computer Science and Engineering at UIU.
 
-- 🌱 I’m currently learning **Data Structure and Algorithm, Java**
+- 🌱 I’m currently learning **Data Structure and Algorithm, Java, Exploring Godot game engine**
 
-- I am a amateur photographer.
-- check out my photos on [https://www.pexels.com/@mahmudulhasan/](https://www.pexels.com/@mahmudclicks/)
-
-- 💬 Ask me about **HTML,CSS and Bootstrap**
+- I am a amateur photographer.check out my photos on [https://www.pexels.com/@mahmudulhasan/](https://www.pexels.com/@mahmudclicks/)
 
 - 📫 How to reach me **mahmudulhasanbafl@gmail.com**
 
